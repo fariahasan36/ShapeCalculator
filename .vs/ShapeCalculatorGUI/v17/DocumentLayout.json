@@ -1,0 +1,389 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\faria\\Desktop\\Storage\\UClan Study\\VisualStudio\\ShapeCalculatorGUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ShapeCalculatorGUI||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\faria\\Desktop\\Storage\\UClan Study\\VisualStudio\\ShapeCalculatorGUI\\ShapeCalculatorGUI\\ShapeCalculator.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ShapeCalculatorGUI\\ShapeCalculator.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8231523D-FCF3-42BB-87E7-F8B909D0A936}|ShapeCalculatorGUI\\ShapeCalculatorGUI.csproj|C:\\Users\\faria\\Desktop\\Storage\\UClan Study\\VisualStudio\\ShapeCalculatorGUI\\shapecalculatorgui\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8231523D-FCF3-42BB-87E7-F8B909D0A936}|ShapeCalculatorGUI\\ShapeCalculatorGUI.csproj|solutionrelative:shapecalculatorgui\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8231523D-FCF3-42BB-87E7-F8B909D0A936}|ShapeCalculatorGUI\\ShapeCalculatorGUI.csproj|C:\\Users\\faria\\Desktop\\Storage\\UClan Study\\VisualStudio\\ShapeCalculatorGUI\\shapecalculatorgui\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8231523D-FCF3-42BB-87E7-F8B909D0A936}|ShapeCalculatorGUI\\ShapeCalculatorGUI.csproj|solutionrelative:shapecalculatorgui\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\faria\\Desktop\\Storage\\UClan Study\\VisualStudio\\ShapeCalculatorGUI\\shapecalculatorgui\\obj\\debug\\arearesult.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:shapecalculatorgui\\obj\\debug\\arearesult.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8231523D-FCF3-42BB-87E7-F8B909D0A936}|ShapeCalculatorGUI\\ShapeCalculatorGUI.csproj|C:\\Users\\faria\\Desktop\\Storage\\UClan Study\\VisualStudio\\ShapeCalculatorGUI\\shapecalculatorgui\\shapecalculatordatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8231523D-FCF3-42BB-87E7-F8B909D0A936}|ShapeCalculatorGUI\\ShapeCalculatorGUI.csproj|solutionrelative:shapecalculatorgui\\shapecalculatordatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8231523D-FCF3-42BB-87E7-F8B909D0A936}|ShapeCalculatorGUI\\ShapeCalculatorGUI.csproj|C:\\Users\\faria\\Desktop\\Storage\\UClan Study\\VisualStudio\\ShapeCalculatorGUI\\shapecalculatorgui\\shapedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8231523D-FCF3-42BB-87E7-F8B909D0A936}|ShapeCalculatorGUI\\ShapeCalculatorGUI.csproj|solutionrelative:shapecalculatorgui\\shapedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8231523D-FCF3-42BB-87E7-F8B909D0A936}|ShapeCalculatorGUI\\ShapeCalculatorGUI.csproj|C:\\Users\\faria\\Desktop\\Storage\\UClan Study\\VisualStudio\\ShapeCalculatorGUI\\shapecalculatorgui\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8231523D-FCF3-42BB-87E7-F8B909D0A936}|ShapeCalculatorGUI\\ShapeCalculatorGUI.csproj|solutionrelative:shapecalculatorgui\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8231523D-FCF3-42BB-87E7-F8B909D0A936}|ShapeCalculatorGUI\\ShapeCalculatorGUI.csproj|C:\\Users\\faria\\Desktop\\Storage\\UClan Study\\VisualStudio\\ShapeCalculatorGUI\\shapecalculatorgui\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8231523D-FCF3-42BB-87E7-F8B909D0A936}|ShapeCalculatorGUI\\ShapeCalculatorGUI.csproj|solutionrelative:shapecalculatorgui\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8231523D-FCF3-42BB-87E7-F8B909D0A936}|ShapeCalculatorGUI\\ShapeCalculatorGUI.csproj|C:\\Users\\faria\\Desktop\\Storage\\UClan Study\\VisualStudio\\ShapeCalculatorGUI\\shapecalculatorgui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8231523D-FCF3-42BB-87E7-F8B909D0A936}|ShapeCalculatorGUI\\ShapeCalculatorGUI.csproj|solutionrelative:shapecalculatorgui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8231523D-FCF3-42BB-87E7-F8B909D0A936}|ShapeCalculatorGUI\\ShapeCalculatorGUI.csproj|C:\\Users\\faria\\Desktop\\Storage\\UClan Study\\VisualStudio\\ShapeCalculatorGUI\\shapecalculatorgui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8231523D-FCF3-42BB-87E7-F8B909D0A936}|ShapeCalculatorGUI\\ShapeCalculatorGUI.csproj|solutionrelative:shapecalculatorgui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8231523D-FCF3-42BB-87E7-F8B909D0A936}|ShapeCalculatorGUI\\ShapeCalculatorGUI.csproj|C:\\Users\\faria\\Desktop\\Storage\\UClan Study\\VisualStudio\\ShapeCalculatorGUI\\shapecalculatorgui\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8231523D-FCF3-42BB-87E7-F8B909D0A936}|ShapeCalculatorGUI\\ShapeCalculatorGUI.csproj|solutionrelative:shapecalculatorgui\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8231523D-FCF3-42BB-87E7-F8B909D0A936}|ShapeCalculatorGUI\\ShapeCalculatorGUI.csproj|C:\\Users\\faria\\Desktop\\Storage\\UClan Study\\VisualStudio\\ShapeCalculatorGUI\\shapecalculatorgui\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8231523D-FCF3-42BB-87E7-F8B909D0A936}|ShapeCalculatorGUI\\ShapeCalculatorGUI.csproj|solutionrelative:shapecalculatorgui\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8231523D-FCF3-42BB-87E7-F8B909D0A936}|ShapeCalculatorGUI\\ShapeCalculatorGUI.csproj|C:\\Users\\faria\\Desktop\\Storage\\UClan Study\\VisualStudio\\ShapeCalculatorGUI\\shapecalculatorgui\\arearesult.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8231523D-FCF3-42BB-87E7-F8B909D0A936}|ShapeCalculatorGUI\\ShapeCalculatorGUI.csproj|solutionrelative:shapecalculatorgui\\arearesult.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8231523D-FCF3-42BB-87E7-F8B909D0A936}|ShapeCalculatorGUI\\ShapeCalculatorGUI.csproj|C:\\Users\\faria\\Desktop\\Storage\\UClan Study\\VisualStudio\\ShapeCalculatorGUI\\shapecalculatorgui\\shapecalculatordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8231523D-FCF3-42BB-87E7-F8B909D0A936}|ShapeCalculatorGUI\\ShapeCalculatorGUI.csproj|solutionrelative:shapecalculatorgui\\shapecalculatordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8231523D-FCF3-42BB-87E7-F8B909D0A936}|ShapeCalculatorGUI\\ShapeCalculatorGUI.csproj|C:\\Users\\faria\\Desktop\\Storage\\UClan Study\\VisualStudio\\ShapeCalculatorGUI\\shapecalculatorgui\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8231523D-FCF3-42BB-87E7-F8B909D0A936}|ShapeCalculatorGUI\\ShapeCalculatorGUI.csproj|solutionrelative:shapecalculatorgui\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8231523D-FCF3-42BB-87E7-F8B909D0A936}|ShapeCalculatorGUI\\ShapeCalculatorGUI.csproj|C:\\Users\\faria\\Desktop\\Storage\\UClan Study\\VisualStudio\\ShapeCalculatorGUI\\shapecalculatorgui\\arearesult.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8231523D-FCF3-42BB-87E7-F8B909D0A936}|ShapeCalculatorGUI\\ShapeCalculatorGUI.csproj|solutionrelative:shapecalculatorgui\\arearesult.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8231523D-FCF3-42BB-87E7-F8B909D0A936}|ShapeCalculatorGUI\\ShapeCalculatorGUI.csproj|C:\\Users\\faria\\Desktop\\Storage\\UClan Study\\VisualStudio\\ShapeCalculatorGUI\\shapecalculatorgui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8231523D-FCF3-42BB-87E7-F8B909D0A936}|ShapeCalculatorGUI\\ShapeCalculatorGUI.csproj|solutionrelative:shapecalculatorgui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8231523D-FCF3-42BB-87E7-F8B909D0A936}|ShapeCalculatorGUI\\ShapeCalculatorGUI.csproj|C:\\Users\\faria\\Desktop\\Storage\\UClan Study\\VisualStudio\\ShapeCalculatorGUI\\shapecalculatorgui\\theme\\textboxtheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8231523D-FCF3-42BB-87E7-F8B909D0A936}|ShapeCalculatorGUI\\ShapeCalculatorGUI.csproj|solutionrelative:shapecalculatorgui\\theme\\textboxtheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\faria\\Desktop\\Storage\\UClan Study\\VisualStudio\\ShapeCalculatorGUI\\shapecalculatorgui\\shapecalculatorgui.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:shapecalculatorgui\\shapecalculatorgui.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\faria\\Desktop\\Storage\\UClan Study\\VisualStudio\\ShapeCalculatorGUI\\shapecalculatorgui\\bin\\debug\\shapecalculatorgui.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:shapecalculatorgui\\bin\\debug\\shapecalculatorgui.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\faria\\Desktop\\Storage\\UClan Study\\VisualStudio\\ShapeCalculatorGUI\\shapecalculatorgui\\bin\\debug\\shapecalculator.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:shapecalculatorgui\\bin\\debug\\shapecalculator.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\faria\\Desktop\\Storage\\UClan Study\\VisualStudio\\ShapeCalculatorGUI\\shapecalculatorgui\\shapecalculatorgui.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:shapecalculatorgui\\shapecalculatorgui.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8231523D-FCF3-42BB-87E7-F8B909D0A936}|ShapeCalculatorGUI\\ShapeCalculatorGUI.csproj|c:\\users\\faria\\desktop\\storage\\uclan study\\visualstudio\\shapecalculatorgui\\shapecalculatorgui\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\faria\\Desktop\\Storage\\UClan Study\\VisualStudio\\ShapeCalculatorGUI\\ShapeCalculatorGUI\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ShapeCalculatorGUI\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\faria\\Desktop\\Storage\\UClan Study\\VisualStudio\\ShapeCalculatorGUI\\ShapeCalculatorGUI\\MainWindow.xaml",
+              "RelativeToolTip": "ShapeCalculatorGUI\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-12T17:14:45.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\faria\\Desktop\\Storage\\UClan Study\\VisualStudio\\ShapeCalculatorGUI\\ShapeCalculatorGUI\\Circle.cs",
+              "RelativeDocumentMoniker": "ShapeCalculatorGUI\\Circle.cs",
+              "ToolTip": "C:\\Users\\faria\\Desktop\\Storage\\UClan Study\\VisualStudio\\ShapeCalculatorGUI\\ShapeCalculatorGUI\\Circle.cs",
+              "RelativeToolTip": "ShapeCalculatorGUI\\Circle.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAAC8AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T17:47:47.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AreaResult.g.cs",
+              "DocumentMoniker": "C:\\Users\\faria\\Desktop\\Storage\\UClan Study\\VisualStudio\\ShapeCalculatorGUI\\ShapeCalculatorGUI\\obj\\Debug\\AreaResult.g.cs",
+              "RelativeDocumentMoniker": "ShapeCalculatorGUI\\obj\\Debug\\AreaResult.g.cs",
+              "ToolTip": "C:\\Users\\faria\\Desktop\\Storage\\UClan Study\\VisualStudio\\ShapeCalculatorGUI\\ShapeCalculatorGUI\\obj\\Debug\\AreaResult.g.cs",
+              "RelativeToolTip": "ShapeCalculatorGUI\\obj\\Debug\\AreaResult.g.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:27:06.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShapeCalculatorGUI",
+              "DocumentMoniker": "C:\\Users\\faria\\Desktop\\Storage\\UClan Study\\VisualStudio\\ShapeCalculatorGUI\\ShapeCalculatorGUI\\ShapeCalculatorGUI.csproj",
+              "RelativeDocumentMoniker": "ShapeCalculatorGUI\\ShapeCalculatorGUI.csproj",
+              "ToolTip": "C:\\Users\\faria\\Desktop\\Storage\\UClan Study\\VisualStudio\\ShapeCalculatorGUI\\ShapeCalculatorGUI\\ShapeCalculatorGUI.csproj",
+              "RelativeToolTip": "ShapeCalculatorGUI\\ShapeCalculatorGUI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-18T18:42:31.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IShape.cs",
+              "DocumentMoniker": "C:\\Users\\faria\\Desktop\\Storage\\UClan Study\\VisualStudio\\ShapeCalculatorGUI\\ShapeCalculatorGUI\\IShape.cs",
+              "RelativeDocumentMoniker": "ShapeCalculatorGUI\\IShape.cs",
+              "ToolTip": "C:\\Users\\faria\\Desktop\\Storage\\UClan Study\\VisualStudio\\ShapeCalculatorGUI\\ShapeCalculatorGUI\\IShape.cs",
+              "RelativeToolTip": "ShapeCalculatorGUI\\IShape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T17:37:51.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShapeCalculator.xml",
+              "DocumentMoniker": "C:\\Users\\faria\\Desktop\\Storage\\UClan Study\\VisualStudio\\ShapeCalculatorGUI\\ShapeCalculatorGUI\\ShapeCalculator.xml",
+              "RelativeDocumentMoniker": "ShapeCalculatorGUI\\ShapeCalculator.xml",
+              "ToolTip": "C:\\Users\\faria\\Desktop\\Storage\\UClan Study\\VisualStudio\\ShapeCalculatorGUI\\ShapeCalculatorGUI\\ShapeCalculator.xml",
+              "RelativeToolTip": "ShapeCalculatorGUI\\ShapeCalculator.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4BAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-05-14T21:12:44.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\faria\\Desktop\\Storage\\UClan Study\\VisualStudio\\ShapeCalculatorGUI\\ShapeCalculatorGUI\\Shape.cs",
+              "RelativeDocumentMoniker": "ShapeCalculatorGUI\\Shape.cs",
+              "ToolTip": "C:\\Users\\faria\\Desktop\\Storage\\UClan Study\\VisualStudio\\ShapeCalculatorGUI\\ShapeCalculatorGUI\\Shape.cs",
+              "RelativeToolTip": "ShapeCalculatorGUI\\Shape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T17:39:19.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShapeDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\faria\\Desktop\\Storage\\UClan Study\\VisualStudio\\ShapeCalculatorGUI\\ShapeCalculatorGUI\\ShapeDatabase.cs",
+              "RelativeDocumentMoniker": "ShapeCalculatorGUI\\ShapeDatabase.cs",
+              "ToolTip": "C:\\Users\\faria\\Desktop\\Storage\\UClan Study\\VisualStudio\\ShapeCalculatorGUI\\ShapeCalculatorGUI\\ShapeDatabase.cs",
+              "RelativeToolTip": "ShapeCalculatorGUI\\ShapeDatabase.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAqwBAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T17:55:04.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShapeCalculatorDataRepository.cs",
+              "DocumentMoniker": "C:\\Users\\faria\\Desktop\\Storage\\UClan Study\\VisualStudio\\ShapeCalculatorGUI\\ShapeCalculatorGUI\\ShapeCalculatorDataRepository.cs",
+              "RelativeDocumentMoniker": "ShapeCalculatorGUI\\ShapeCalculatorDataRepository.cs",
+              "ToolTip": "C:\\Users\\faria\\Desktop\\Storage\\UClan Study\\VisualStudio\\ShapeCalculatorGUI\\ShapeCalculatorGUI\\ShapeCalculatorDataRepository.cs",
+              "RelativeToolTip": "ShapeCalculatorGUI\\ShapeCalculatorDataRepository.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAowE4AAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T17:21:26.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\faria\\Desktop\\Storage\\UClan Study\\VisualStudio\\ShapeCalculatorGUI\\ShapeCalculatorGUI\\Login.xaml.cs",
+              "RelativeDocumentMoniker": "ShapeCalculatorGUI\\Login.xaml.cs",
+              "ToolTip": "C:\\Users\\faria\\Desktop\\Storage\\UClan Study\\VisualStudio\\ShapeCalculatorGUI\\ShapeCalculatorGUI\\Login.xaml.cs",
+              "RelativeToolTip": "ShapeCalculatorGUI\\Login.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T14:53:44.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "C:\\Users\\faria\\Desktop\\Storage\\UClan Study\\VisualStudio\\ShapeCalculatorGUI\\ShapeCalculatorGUI\\Triangle.cs",
+              "RelativeDocumentMoniker": "ShapeCalculatorGUI\\Triangle.cs",
+              "ToolTip": "C:\\Users\\faria\\Desktop\\Storage\\UClan Study\\VisualStudio\\ShapeCalculatorGUI\\ShapeCalculatorGUI\\Triangle.cs",
+              "RelativeToolTip": "ShapeCalculatorGUI\\Triangle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T17:41:31.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\faria\\Desktop\\Storage\\UClan Study\\VisualStudio\\ShapeCalculatorGUI\\ShapeCalculatorGUI\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ShapeCalculatorGUI\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\faria\\Desktop\\Storage\\UClan Study\\VisualStudio\\ShapeCalculatorGUI\\ShapeCalculatorGUI\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "ShapeCalculatorGUI\\MainWindow.xaml.cs*",
+              "ViewState": "AQIAALEAAAAAAAAAAAA1wLwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T08:48:54.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "C:\\Users\\faria\\Desktop\\Storage\\UClan Study\\VisualStudio\\ShapeCalculatorGUI\\ShapeCalculatorGUI\\Login.xaml",
+              "RelativeDocumentMoniker": "ShapeCalculatorGUI\\Login.xaml",
+              "ToolTip": "C:\\Users\\faria\\Desktop\\Storage\\UClan Study\\VisualStudio\\ShapeCalculatorGUI\\ShapeCalculatorGUI\\Login.xaml",
+              "RelativeToolTip": "ShapeCalculatorGUI\\Login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-14T14:53:29.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ShapeCalculatorGUI.xml",
+              "DocumentMoniker": "C:\\Users\\faria\\Desktop\\Storage\\UClan Study\\VisualStudio\\ShapeCalculatorGUI\\ShapeCalculatorGUI\\bin\\Debug\\ShapeCalculatorGUI.xml",
+              "RelativeDocumentMoniker": "ShapeCalculatorGUI\\bin\\Debug\\ShapeCalculatorGUI.xml",
+              "ToolTip": "C:\\Users\\faria\\Desktop\\Storage\\UClan Study\\VisualStudio\\ShapeCalculatorGUI\\ShapeCalculatorGUI\\bin\\Debug\\ShapeCalculatorGUI.xml",
+              "RelativeToolTip": "ShapeCalculatorGUI\\bin\\Debug\\ShapeCalculatorGUI.xml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-10-28T10:27:20.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ShapeCalculator.xml",
+              "DocumentMoniker": "C:\\Users\\faria\\Desktop\\Storage\\UClan Study\\VisualStudio\\ShapeCalculatorGUI\\ShapeCalculatorGUI\\bin\\Debug\\ShapeCalculator.xml",
+              "RelativeDocumentMoniker": "ShapeCalculatorGUI\\bin\\Debug\\ShapeCalculator.xml",
+              "ToolTip": "C:\\Users\\faria\\Desktop\\Storage\\UClan Study\\VisualStudio\\ShapeCalculatorGUI\\ShapeCalculatorGUI\\bin\\Debug\\ShapeCalculator.xml",
+              "RelativeToolTip": "ShapeCalculatorGUI\\bin\\Debug\\ShapeCalculator.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-10-28T10:27:14.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ShapeCalculatorGUI.exe",
+              "DocumentMoniker": "C:\\Users\\faria\\Desktop\\Storage\\UClan Study\\VisualStudio\\ShapeCalculatorGUI\\ShapeCalculatorGUI\\ShapeCalculatorGUI.exe",
+              "RelativeDocumentMoniker": "ShapeCalculatorGUI\\ShapeCalculatorGUI.exe",
+              "ToolTip": "C:\\Users\\faria\\Desktop\\Storage\\UClan Study\\VisualStudio\\ShapeCalculatorGUI\\ShapeCalculatorGUI\\ShapeCalculatorGUI.exe",
+              "RelativeToolTip": "ShapeCalculatorGUI\\ShapeCalculatorGUI.exe",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000165|",
+              "WhenOpened": "2024-10-28T10:23:34.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AreaResult.xaml",
+              "DocumentMoniker": "C:\\Users\\faria\\Desktop\\Storage\\UClan Study\\VisualStudio\\ShapeCalculatorGUI\\ShapeCalculatorGUI\\AreaResult.xaml",
+              "RelativeDocumentMoniker": "ShapeCalculatorGUI\\AreaResult.xaml",
+              "ToolTip": "C:\\Users\\faria\\Desktop\\Storage\\UClan Study\\VisualStudio\\ShapeCalculatorGUI\\ShapeCalculatorGUI\\AreaResult.xaml",
+              "RelativeToolTip": "ShapeCalculatorGUI\\AreaResult.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-12T12:40:13.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ShapeCalculatorData.cs",
+              "DocumentMoniker": "C:\\Users\\faria\\Desktop\\Storage\\UClan Study\\VisualStudio\\ShapeCalculatorGUI\\ShapeCalculatorGUI\\ShapeCalculatorData.cs",
+              "RelativeDocumentMoniker": "ShapeCalculatorGUI\\ShapeCalculatorData.cs",
+              "ToolTip": "C:\\Users\\faria\\Desktop\\Storage\\UClan Study\\VisualStudio\\ShapeCalculatorGUI\\ShapeCalculatorGUI\\ShapeCalculatorData.cs",
+              "RelativeToolTip": "ShapeCalculatorGUI\\ShapeCalculatorData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T17:51:37.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\faria\\Desktop\\Storage\\UClan Study\\VisualStudio\\ShapeCalculatorGUI\\ShapeCalculatorGUI\\Rectangle.cs",
+              "RelativeDocumentMoniker": "ShapeCalculatorGUI\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\faria\\Desktop\\Storage\\UClan Study\\VisualStudio\\ShapeCalculatorGUI\\ShapeCalculatorGUI\\Rectangle.cs",
+              "RelativeToolTip": "ShapeCalculatorGUI\\Rectangle.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAiwEwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T17:46:22.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AreaResult.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\faria\\Desktop\\Storage\\UClan Study\\VisualStudio\\ShapeCalculatorGUI\\ShapeCalculatorGUI\\AreaResult.xaml.cs",
+              "RelativeDocumentMoniker": "ShapeCalculatorGUI\\AreaResult.xaml.cs",
+              "ToolTip": "C:\\Users\\faria\\Desktop\\Storage\\UClan Study\\VisualStudio\\ShapeCalculatorGUI\\ShapeCalculatorGUI\\AreaResult.xaml.cs",
+              "RelativeToolTip": "ShapeCalculatorGUI\\AreaResult.xaml.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAWwBoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T13:09:16.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ShapeCalculatorGUI.xml",
+              "DocumentMoniker": "C:\\Users\\faria\\Desktop\\Storage\\UClan Study\\VisualStudio\\ShapeCalculatorGUI\\ShapeCalculatorGUI\\ShapeCalculatorGUI.xml",
+              "RelativeDocumentMoniker": "ShapeCalculatorGUI\\ShapeCalculatorGUI.xml",
+              "ToolTip": "C:\\Users\\faria\\Desktop\\Storage\\UClan Study\\VisualStudio\\ShapeCalculatorGUI\\ShapeCalculatorGUI\\ShapeCalculatorGUI.xml",
+              "RelativeToolTip": "ShapeCalculatorGUI\\ShapeCalculatorGUI.xml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-05-15T10:13:04.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\faria\\Desktop\\Storage\\UClan Study\\VisualStudio\\ShapeCalculatorGUI\\ShapeCalculatorGUI\\App.xaml",
+              "RelativeDocumentMoniker": "ShapeCalculatorGUI\\App.xaml",
+              "ToolTip": "C:\\Users\\faria\\Desktop\\Storage\\UClan Study\\VisualStudio\\ShapeCalculatorGUI\\ShapeCalculatorGUI\\App.xaml",
+              "RelativeToolTip": "ShapeCalculatorGUI\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-14T15:48:34.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TextboxTheme.xaml",
+              "DocumentMoniker": "C:\\Users\\faria\\Desktop\\Storage\\UClan Study\\VisualStudio\\ShapeCalculatorGUI\\ShapeCalculatorGUI\\Theme\\TextboxTheme.xaml",
+              "RelativeDocumentMoniker": "ShapeCalculatorGUI\\Theme\\TextboxTheme.xaml",
+              "ToolTip": "C:\\Users\\faria\\Desktop\\Storage\\UClan Study\\VisualStudio\\ShapeCalculatorGUI\\ShapeCalculatorGUI\\Theme\\TextboxTheme.xaml",
+              "RelativeToolTip": "ShapeCalculatorGUI\\Theme\\TextboxTheme.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-12T13:35:01.802Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
